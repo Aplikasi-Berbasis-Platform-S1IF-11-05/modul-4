@@ -129,6 +129,7 @@ body {
   box-shadow: var(--ramadan-shadow);
 }
 
+```
 
 Output:
 
