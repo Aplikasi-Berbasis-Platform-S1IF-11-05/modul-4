@@ -131,7 +131,8 @@ body {
 
 
 Output:
-<img src="./assets/task1.jpeg" alt="preview" style="width:100%; max-width:900px;">
+
+<img src="./assets/task1.png" alt="preview" style="width:100%; max-width:900px;">
 
 # Penjelasan
 Halaman website bertema Ramadan untuk Masjid Al-Hikmah yang dibuat menggunakan framework Bootstrap dan dikombinasikan dengan CSS kustom untuk menghasilkan tampilan modern, elegan, dan responsif. Struktur HTML dimulai dengan navbar sebagai navigasi utama yang berisi menu seperti Beranda, Jadwal, Program, dan Donasi, lalu dilanjutkan dengan beberapa section seperti hero (beranda), jadwal kegiatan, program unggulan, hingga donasi. Setiap bagian memanfaatkan komponen Bootstrap seperti grid system, card, button, dan badge untuk mengatur layout serta tampilan. Selain itu, file CSS digunakan untuk mempercantik desain dengan efek seperti blur (glass/mica effect), gradasi warna, dan custom variable warna bertema Ramadan sehingga tampilan menjadi lebih estetik dan konsisten.
