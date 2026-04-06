@@ -128,9 +128,6 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.25) !important;
   box-shadow: var(--ramadan-shadow);
 }
-// Selebihnya dapat cek pada file "style.css"
-```
-🔗 [Klik di sini untuk membuka file `style.css`](./style.css)
 
 
 Output:
