@@ -76,10 +76,10 @@ Bootstrap merupakan framework front-end yang dikembangkan untuk mempermudah pros
             Jangan lupa sahur dan berbuka tepat waktu!
         </div>
     </div>
+```
 
 Output:
 <img src="bootstrap.png" alt="preview" style="width:100%; max-width:900px;">
-```
 
 ## Penjelasan
 Halaman ini dibuat menggunakan Bootstrap dengan memanfaatkan class bawaan seperti navbar, container, card, dan btn untuk membangun tampilan Ramadan yang responsif tanpa CSS custom. Struktur layout menggunakan sistem grid Bootstrap sehingga desain tetap rapi dan konsisten di berbagai ukuran layar.
