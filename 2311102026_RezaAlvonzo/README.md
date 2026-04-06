@@ -175,10 +175,10 @@ Bulma: Framework berbasis Flexbox yang modern.
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
+```
 Output:
 <img src="ramadhan.png" alt="preview" style="width:100%; max-width:900px;">
-```
+
 
 ## Penjelasan
 Website tersebut dirancang dengan konsep "Clean & Spiritual" yang mengandalkan sepenuhnya pada utility classes Bootstrap 5 untuk menciptakan tampilan modern tanpa kode CSS tambahan. Fokus utamanya adalah menyajikan informasi khas Ramadan, seperti jadwal imsakiyah dan kartu artikel, dalam tata letak yang responsif dan elegan.
