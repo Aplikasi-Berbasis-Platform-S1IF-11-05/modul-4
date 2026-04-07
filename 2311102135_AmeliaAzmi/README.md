@@ -167,6 +167,7 @@ Konsep utama dari Bootstrap adalah kemudahan dan konsistensi. Dengan menggunakan
 ```
 
 Output:
+<img width="1919" height="939" alt="Screenshot 2026-04-06 025710" src="https://github.com/user-attachments/assets/c9d2dfd4-bb3e-4606-b12a-98bfa53d8af4" />
 
 
 # Penjelasan
