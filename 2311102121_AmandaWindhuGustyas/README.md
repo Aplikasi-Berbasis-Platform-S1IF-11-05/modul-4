@@ -121,7 +121,7 @@ Bootstrap merupakan framework CSS yang digunakan untuk mempermudah proses pengem
 </html>
 ```
 Output:
-<img src="boostrap.png" alt="preview" style="width:100%; max-width:1000px;">
+<img src="task.png" alt="preview" style="width:100%; max-width:1000px;">
 
 # Penjelasan
 Kode pada halaman ini menggunakan framework Bootstrap untuk membangun tampilan web bertema Ramadan secara cepat dan responsif tanpa menggunakan CSS manual. Struktur halaman terdiri dari beberapa komponen utama, yaitu navbar yang menggunakan class navbar untuk menampilkan judul halaman di bagian atas, kemudian section utama (hero) yang menggunakan class seperti container, p-5, bg-danger, rounded, dan shadow untuk membuat tampilan kotak besar dengan latar berwarna dan efek bayangan. Selanjutnya terdapat bagian card yang disusun menggunakan sistem grid Bootstrap (row dan col-md-4) untuk membagi konten menjadi tiga kolom yang responsif. Setiap card menggunakan class card, card-body, dan shadow untuk memberikan tampilan yang rapi dan modern. Selain itu, digunakan juga berbagai utility class seperti text-center, mt-5, fw-bold, dan btn untuk mengatur teks, jarak, serta tampilan tombol. Dengan memanfaatkan class bawaan Bootstrap, halaman ini menjadi lebih estetis, terstruktur, dan responsif tanpa perlu menambahkan styling CSS secara manual.
